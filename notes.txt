@@ -1,1 +1,2 @@
 Learning git properly
+Hello this is second line
